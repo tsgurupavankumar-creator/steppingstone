@@ -1,0 +1,6 @@
+question_id,question,option_a,option_b,option_c,option_d,correct_answer,explanation,marks,negative_marks,topic,difficulty
+1,What is the longest river in the world by overall length?,Amazon River,Nile River,Yangtze River,Mississippi River,B,"The Nile River in Africa is traditionally considered the longest river in the world, spanning approximately 6,650 kilometers.",2,0.5,Geography,Medium
+2,Which continent contains the highest number of sovereign nations?,Asia,Europe,Africa,South America,C,"Africa comprises 54 recognized sovereign countries, more than any other continent.",2,0.5,Geography,Medium
+3,Mount Everest is situated in which mountain range?,Andes,Rocky Mountains,Alps,Himalayas,D,Mount Everest is the highest mountain on Earth and lies within the Mahalangur Himal sub-range of the Himalayas.,2,0.5,Geography,Easy
+4,Which ocean is the largest by surface area on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,D,The Pacific Ocean covers over 30 percent of Earth's surface area.,2,0.5,Geography,Easy
+5,What is the capital city of Australia?,Sydney,Melbourne,Canberra,Brisbane,C,Canberra was selected as the compromise capital of Australia between rival cities Sydney and Melbourne in 1908.,2,0.5,Geography,Medium

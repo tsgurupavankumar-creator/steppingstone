@@ -1,0 +1,59 @@
+Question 1: What is the primary gas found in the Earth's atmosphere?
+A. Oxygen
+B. Nitrogen
+C. Carbon Dioxide
+D. Hydrogen
+Correct Answer: B
+Explanation: Nitrogen makes up approximately 78% of Earth's atmosphere, while oxygen accounts for about 21%.
+Marks: 2
+Negative Marks: 0.5
+Topic: General Science
+Difficulty: Easy
+
+Question 2: Which organelle is famously known as the powerhouse of the eukaryotic cell?
+A. Nucleus
+B. Ribosome
+C. Mitochondria
+D. Endoplasmic Reticulum
+Correct Answer: C
+Explanation: Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions through adenosine triphosphate (ATP).
+Marks: 2
+Negative Marks: 0.5
+Topic: Biology
+Difficulty: Easy
+
+Question 3: What is the chemical formula for ordinary table salt?
+A. H2O
+B. NaCl
+C. CO2
+D. KCl
+Correct Answer: B
+Explanation: Table salt is an ionic compound composed of sodium (Na) and chlorine (Cl) with chemical formula NaCl.
+Marks: 2
+Negative Marks: 0.5
+Topic: Chemistry
+Difficulty: Easy
+
+Question 4: At what temperature Celsius does pure water freeze at standard atmospheric pressure?
+A. 100 degrees C
+B. 32 degrees C
+C. 0 degrees C
+D. -10 degrees C
+Correct Answer: C
+Explanation: Pure water freezes at 0 degrees Celsius (32 degrees Fahrenheit) at 1 atmosphere of pressure.
+Marks: 2
+Negative Marks: 0.5
+Topic: Physics
+Difficulty: Easy
+
+Question 5: Which planet in the solar system is known as the Red Planet?
+A. Venus
+B. Jupiter
+C. Saturn
+D. Mars
+Correct Answer: D
+Explanation: Mars appears reddish due to iron oxide (rust) prevailing on its surface and thin atmosphere.
+Marks: 2
+Negative Marks: 0.5
+Topic: Astronomy
+Difficulty: Easy
