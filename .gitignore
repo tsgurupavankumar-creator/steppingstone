@@ -1,8 +1,12 @@
-node_modules/
+.pytest_cache/
+exam_platform.db
+*.db
+uploads/
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
-.DS_Store
+node_modules/
+dist/
 *.log
